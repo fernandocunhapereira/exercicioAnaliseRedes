@@ -44,7 +44,7 @@
 	R = 2
 
 	(e) Represent the digraph using adjacency list representation.
-	M: S
+	     M: S
         N: O,S,Q,R
         O: M,N
         P: R,P,M
@@ -53,7 +53,7 @@
         S: M
 
 	(f) Represent the digraph using adjacency matrix representation.
-	      M N O P Q R S
+	        M N O P Q R S
           M 0 0 0 0 0 0 1
           N 0 0 1 0 0 1 1
           O 1 1 0 0 0 0 0
